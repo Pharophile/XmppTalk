@@ -1,1 +1,0 @@
-An event root for Xmpp logging ZnLogEvent style

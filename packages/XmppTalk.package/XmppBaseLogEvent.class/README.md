@@ -1,1 +1,0 @@
-I am a copy of ZnLogEvent so that I can have my own announcer.

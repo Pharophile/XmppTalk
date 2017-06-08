@@ -1,1 +1,0 @@
-I indicate that a client is disconnected

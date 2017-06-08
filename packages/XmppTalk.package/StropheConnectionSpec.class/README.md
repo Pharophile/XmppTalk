@@ -1,1 +1,0 @@
-A connection spec with the specifics for a given connection

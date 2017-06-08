@@ -1,1 +1,0 @@
-I am the parent class of all connection events
