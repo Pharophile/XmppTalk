@@ -1,0 +1,2 @@
+# XmppTalk
+XMPP in Pharo
