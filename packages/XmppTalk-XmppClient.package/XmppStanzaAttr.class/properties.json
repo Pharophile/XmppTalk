@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "PhilippeBack 4/3/2017 23:00",
 	"super" : "Object",
-	"category" : "XmppTalk-XmppClient",
+	"category" : "XmppTalk-XmppClient-Constants",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

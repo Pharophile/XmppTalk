@@ -14,7 +14,6 @@ testConnectionSpecConfig
 		nick: 'pharobot';
 		yourself.
 		
-		connectionSpec flags inspect.
 	self assert: connectionSpec tcpKeepalive equals: 1.
 	self assert: connectionSpec jid equals: 'philippeback'.
 	self assert: connectionSpec pass equals: 'whoknew'.
