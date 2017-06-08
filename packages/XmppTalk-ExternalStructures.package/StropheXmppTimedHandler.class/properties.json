@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PhilippeBack 4/4/2017 15:03",
+	"super" : "StropheOpaqueObject",
+	"category" : "XmppTalk-ExternalStructures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "StropheXmppTimedHandler",
+	"type" : "normal"
+}

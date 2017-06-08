@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PhilippeBack 3/29/2017 12:36",
+	"super" : "XmppBaseLogEvent",
+	"category" : "XmppTalk-XmppLogEvents",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "XmppLogEvent",
+	"type" : "normal"
+}

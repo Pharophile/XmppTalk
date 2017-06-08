@@ -1,0 +1,4 @@
+tasks
+taskXmppOpenLogger
+
+	XmppLogEvent open

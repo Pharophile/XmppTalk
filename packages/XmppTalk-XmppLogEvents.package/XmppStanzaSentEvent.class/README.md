@@ -1,0 +1,1 @@
+I indicate that a stanza has been sent

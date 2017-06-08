@@ -1,0 +1,1 @@
+Strophe.h constants

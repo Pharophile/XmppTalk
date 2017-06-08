@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "PhilippeBack 4/4/2017 16:20",
+	"super" : "Object",
+	"category" : "XmppTalk-XmppClient",
+	"classinstvars" : [ ],
+	"pools" : [
+		"StropheXmppDefs"
+	],
+	"classvars" : [
+		"Interrupt"
+	],
+	"instvars" : [
+		"callbackRegistry",
+		"lib",
+		"log",
+		"ctx",
+		"conn",
+		"connSpec",
+		"logLevel",
+		"history",
+		"messagesToSend",
+		"connected"
+	],
+	"name" : "XmppClient",
+	"type" : "normal"
+}
