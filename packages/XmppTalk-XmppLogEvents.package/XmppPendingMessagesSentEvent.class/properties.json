@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "PhilippeBack 6/8/2017 18:59",
 	"super" : "XmppClientLogEvent",
 	"category" : "XmppTalk-XmppLogEvents",
 	"classinstvars" : [ ],
