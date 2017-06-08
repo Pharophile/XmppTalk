@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "XmppTalk",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"StringConstants",
+		"XMPP_EINT",
+		"XMPP_EINVOP",
+		"XMPP_EMEM",
+		"XMPP_EOK"
+	],
+	"instvars" : [ ],
+	"name" : "StropheConstants",
+	"type" : "normal"
+}

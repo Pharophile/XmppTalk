@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "PhilippeBack 1/17/2017 07:38",
+	"super" : "TestCase",
+	"category" : "XmppTalk-Tests",
+	"classinstvars" : [ ],
+	"pools" : [
+		"StropheXmppDefs"
+	],
+	"classvars" : [
+		"Interrupt"
+	],
+	"instvars" : [ ],
+	"name" : "XmppTests",
+	"type" : "normal"
+}

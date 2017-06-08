@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "PhilippeBack 1/17/2017 06:48",
+	"super" : "FFILibrary",
+	"category" : "XmppTalk",
+	"classinstvars" : [ ],
+	"pools" : [
+		"StropheXmppDefs"
+	],
+	"classvars" : [
+		"TypeMap"
+	],
+	"instvars" : [ ],
+	"name" : "StropheLib",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PhilippeBack 1/14/2017 02:39",
+	"super" : "FFIExternalObject",
+	"category" : "XmppTalk-ExternalStructures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "StropheExternalObject",
+	"type" : "normal"
+}

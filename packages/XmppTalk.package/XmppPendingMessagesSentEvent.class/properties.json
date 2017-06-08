@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "XmppClientLogEvent",
+	"category" : "XmppTalk-XmppLogEvents",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "XmppPendingMessagesSentEvent",
+	"type" : "normal"
+}

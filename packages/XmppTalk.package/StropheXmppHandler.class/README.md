@@ -1,0 +1,1 @@
+An XmppHandler is a callback that handles specific items

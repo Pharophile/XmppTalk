@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "PhilippeBack 1/14/2017 01:39",
+	"super" : "Object",
+	"category" : "XmppTalk",
+	"classinstvars" : [ ],
+	"pools" : [
+		"StropheXmppDefs"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"flags",
+		"jid",
+		"pass",
+		"host",
+		"tcpKeepAlive",
+		"nick"
+	],
+	"name" : "StropheConnectionSpec",
+	"type" : "normal"
+}
