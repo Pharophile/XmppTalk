@@ -1,3 +1,3 @@
-as yet unclassified
+*XmppTalk-LibStrophe
 ffiLibraryName
 	^ StropheLib uniqueInstance ffiLibraryName 
