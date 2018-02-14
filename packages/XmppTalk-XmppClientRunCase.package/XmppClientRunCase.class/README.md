@@ -1,1 +1,0 @@
-RunCase to test drive the XmppClient
